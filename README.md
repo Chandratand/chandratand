@@ -4,7 +4,7 @@
 Hello... My full name is Chandra Tandiono, also known as chandratand. I'm Software Engineer who specialized in frontend side, but also have an ability to code in backend side. Very passionate about modern mobile and web technology using JavaScript/TypeScript while taking into consideration the latest trends and techniques.
 
 ## 💼 Career
-Currently working in *Software Engineering Division* as a ***Frontend Developer*** at [PT Anugrah Danamas Remit].
+Currently working in *Software Engineering Division* as a ***FullStack*** at [PT Anugrah Danamas Remit].
 
 ## 🔍 Currently Learning:
 - Improving Skill at Software Develoment
